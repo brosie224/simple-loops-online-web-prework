@@ -15,6 +15,7 @@ counter = 0
     break if counter == number_of_times
   end
 end
+end
 
 def times_iterator(number_of_times)
   number_of_times.times do
